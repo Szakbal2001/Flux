@@ -1,0 +1,7 @@
+torch
+transformers
+git+https://github.com/huggingface/diffusers.git
+accelerate
+sentencepiece
+numpy
+gradio==4.36.1
