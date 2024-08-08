@@ -116,4 +116,4 @@ with gr.Blocks(css=css) as demo:
         outputs=[result],
     )
 
-demo.queue().launch(share=False)
+demo.queue().launch(share=True)
